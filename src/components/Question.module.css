@@ -1,0 +1,30 @@
+.questionContainer {
+ margin:5px 10px;
+    padding: 5px 20px;
+
+}
+
+.questionTitle {
+    
+        font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+}
+
+.radioInput {
+    margin-right: 10px;
+}
+
+.label {
+    font-size: 16px;
+    color: #555;
+    
+}
